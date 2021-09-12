@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AniketAnand03
-- 👀 I’m interested in ...JAVA
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m AniketAnand03 and i am a proficient Java Developer.
+- 👀 I’m interested in ...JAVA Applications as well as WEB Development.
+- 🌱 I’m currently learning ...JavaScript & MERN Stack
+- 📫 How to reach me ... @impatient_optimist.03 @the_coder_.69
 
 <!---
 AniketAnand03/AniketAnand03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
